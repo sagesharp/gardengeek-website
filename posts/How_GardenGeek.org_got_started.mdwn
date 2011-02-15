@@ -29,9 +29,12 @@ There's several ways you can contribute to GardenGeek.org:
 
 * Want to get some help on a project or just say hi?<br>Join the GardenGeek Google
 group.
+
 * Know of a really cool project?<br>Add a link to the project page.
+
 * Read an interesting article on garden science?<br>Add a link or note to the
 research page.
+
 * Want to talk about your awesome project or some garden experiments you've
 been conducting?<br>Contribute a blog post.
 
