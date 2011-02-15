@@ -12,7 +12,7 @@ Arduino-based watering system, loosely based off the Garduino.
 
 This January, I presented my tools at Linux Conference Australia in a talk
 called "Growing food with Open Source".  I was amazed by the interest from the
-conference attendees, and by how many people told me about FLOSS garden projects
+conference attendees, and by how many people told me about geeky garden projects
 I had never heard of.  There was one person who told me they had already done
 the watering automation project I presented in the talk, but they were too
 worried about being in front of an audience to ever present on it!
@@ -26,12 +26,13 @@ Welcome to GardenGeek.org!  I hope you can contribute to this community, or use
 this site to find a cool garden project to work on.
 
 There's several ways you can contribute to GardenGeek.org:
- * Want to get some help on a project or just say hi? Join the GardenGeek Google
+
+* Want to get some help on a project or just say hi? Join the GardenGeek Google
 group.
- * Know of a really cool project?  Add a link to the project page.
- * Read an interesting article on garden science?  Add a link or note to the
+* Know of a really cool project?  Add a link to the project page.
+* Read an interesting article on garden science?  Add a link or note to the
 research page.
- * Want to talk about your awesome project or some garden experiments you've
+* Want to talk about your awesome project or some garden experiments you've
 been conducting?  Contribute a blog post.
 
 You can sign up to edit the pages here.  If you want to contribute a blog post,
