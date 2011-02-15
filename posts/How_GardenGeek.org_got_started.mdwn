@@ -22,7 +22,7 @@ LCA, and hear about any projects they were working on.  I realized there was no
 online representation for this community, where people combine their software
 and hardware expertise with their passion for gardening.  So I created it.
 
-Welcome to GardenGeek.org!  I hope you can contribute to this community, or use
+<b>Welcome to GardenGeek.org!</b>  I hope you can contribute to this community, or use
 this site to find a cool garden project to work on.
 
 There's several ways you can contribute to GardenGeek.org:
