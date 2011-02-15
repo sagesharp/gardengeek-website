@@ -1,5 +1,3 @@
-How GardenGeek.org got started
-
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and something of a planner by nature.  I
 wanted tools to help me create a garden calendar and plot out my garden, and
