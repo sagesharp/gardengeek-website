@@ -1,2 +1,41 @@
-This is the first post to this example blog. To add new posts, just add
-files to the posts/ subdirectory, or use the web form.
+How GardenGeek.org got started
+
+Last January, I started searching for tools to help me grow my garden.  I'm a
+lazy software hacker by profession, and something of a planner by nature.  I
+wanted tools to help me create a garden calendar and plot out my garden, and
+maybe some electronics to help out with automatically watering my garden in the
+summer.
+
+I never found any really good freely available tools, and certainly no open
+source tools, so I gave up and started writing my own.  I ended up creating
+several different projects, including an Android app called ColdSnap that
+notifies of incoming frosts, a garden calendaring/task list tool, and an
+Arduino-based watering system, loosely based off the Garduino.
+
+This January, I presented my tools at Linux Conference Australia in a talk
+called "Growing food with Open Source".  I was amazed by the interest from the
+conference attendees, and by how many people told me about FLOSS garden projects
+I had never heard of.  There was one person who told me they had already done
+the watering automation project I presented in the talk, but they were too
+worried about being in front of an audience to ever present on it!
+
+Of course, I wanted to keep in contact with all the awesome garden hackers at
+LCA, and hear about any projects they were working on.  I realized there was no
+online representation for this community, where people combine their software
+and hardware expertise with their passion for gardening.  So I created it.
+
+Welcome to GardenGeek.org!  I hope you can contribute to this community, or use
+this site to find a cool garden project to work on.
+
+There's several ways you can contribute to GardenGeek.org:
+ * Want to get some help on a project or just say hi? Join the GardenGeek Google
+group.
+ * Know of a really cool project?  Add a link to the project page.
+ * Read an interesting article on garden science?  Add a link or note to the
+research page.
+ * Want to talk about your awesome project or some garden experiments you've
+been conducting?  Contribute a blog post.
+
+You can sign up to edit the pages here.  If you want to contribute a blog post,
+mention the subject and your username on the google group, and I'll give your
+username the permissions to make a blog post.
