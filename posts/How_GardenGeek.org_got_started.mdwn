@@ -1,29 +1,33 @@
+<u>In a garden, far, far away</u>
+
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and something of a planner by nature.  I
 wanted tools to help me create a garden calendar and plot out my garden, and
-maybe some electronics to help out with automatically watering my garden in the
-summer.
+some electronics to automatically watering my garden in the summer.
 
 I never found any really good freely available tools, and certainly no open
 source tools, so I gave up and started writing my own.  I ended up creating
 several different projects, including an Android app called ColdSnap that
 notifies of incoming frosts, a garden calendaring/task list tool, and an
-Arduino-based watering system, loosely based off the Garduino.
+Arduino-based watering system, loosely based off the Garduino.  You can find
+those tools on <a href="http://github.com/sarahsharp/GardenGeek">github</a>.
 
 This January, I presented my tools at Linux Conference Australia in a talk
 called "Growing food with Open Source".  I was amazed by the interest from the
 conference attendees, and by how many people told me about geeky garden projects
 I had never heard of.  There was one person who told me they had already done
-the watering automation project I presented in the talk, but they were too
-worried about being in front of an audience to ever present on it!
+the automatic watering project I presented in the talk, but they were too
+worried about being in front of an audience to ever present it!
 
 Of course, I wanted to keep in contact with all the awesome garden hackers at
 LCA, and hear about any projects they were working on.  I realized there was no
 online representation for this community, where people combine their software
 and hardware expertise with their passion for gardening.  So I created it.
 
-<b>Welcome to GardenGeek.org!</b>  I hope you can contribute to this community, or use
-this site to find a cool garden project to work on.
+<u>Welcome to GardenGeek.org!</u>
+
+I hope you can contribute to this community, or use this site to find a cool
+garden project to work on.
 
 There's several ways you can contribute to GardenGeek.org:
 
