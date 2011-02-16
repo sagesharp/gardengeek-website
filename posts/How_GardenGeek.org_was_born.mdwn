@@ -2,9 +2,9 @@ A long time ago, in a garden far far away
 =========================================
 
 Last January, I started searching for tools to help me grow my garden.  I'm a
-lazy software hacker by profession, and something of a planner by nature.  I
-wanted tools to help me create a garden calendar and plot out my garden, and
-some electronics to automatically water my garden in the summer.
+lazy software hacker by profession, and a planner by nature.  I wanted tools to
+help me create a garden calendar and plot out my garden, and some electronics to
+automatically water my garden in the summer.
 
 I never found any really good freely available tools, and certainly no open
 source tools, so I gave up and started writing my own.  I ended up creating
@@ -23,8 +23,8 @@ being in front of an audience to ever present it!
 
 Of course, I wanted to keep in contact with all the awesome garden hackers at
 LCA, and hear about any projects they were working on.  I realized there was no
-online representation for this community, where people combine their software
-and hardware expertise with their passion for gardening.  So I created it.
+online representation for this community, where people combine their technology
+and science expertise with their passion for gardening.  So I created it.
 
 Welcome to GardenGeek.org!
 ==========================
@@ -34,9 +34,9 @@ garden project to work on.
 
 There's several ways you can contribute to GardenGeek.org:
 
-* Want to get some help on a project or just say hi?<br><a
-href="http://groups.google.com/group/gardengeekery">Join the GardenGeek Google
-group</a>.
+* Want to get some help on a project?
+<br><a href="http://groups.google.com/group/gardengeekery">Join the
+GardenGeekery Google group</a>.
 
 * Know of a really cool project?<br>Add a link to the project page.
 
@@ -45,6 +45,10 @@ research page.
 
 * Want to talk about your awesome project or some garden experiments you've
 been conducting?<br>Contribute a blog post.
+
+* Just want to see what we're up to?<br>
+<a href="http://twitter.com/gardengeekery">Follow GardenGeekery on twitter</a> or
+<a href="http://www.facebook.com/pages/GardenGeekery/">Become a fan on Facebook</a>
 
 You can sign up to edit the pages here.  If you want to contribute a blog post,
 mention the subject and your username on the google group, and I'll give your
