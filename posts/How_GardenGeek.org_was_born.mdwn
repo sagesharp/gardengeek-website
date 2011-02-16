@@ -4,13 +4,14 @@ A long time ago, in a garden far far away
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and something of a planner by nature.  I
 wanted tools to help me create a garden calendar and plot out my garden, and
-some electronics to automatically watering my garden in the summer.
+some electronics to automatically water my garden in the summer.
 
 I never found any really good freely available tools, and certainly no open
 source tools, so I gave up and started writing my own.  I ended up creating
 several different projects, including an Android app called ColdSnap that
-notifies of incoming frosts, a garden calendaring/task list tool, and an
-Arduino-based watering system, loosely based off the Garduino.  You can find
+notifies of incoming frosts, a garden calendaring/todo list tool, and an
+Arduino-based watering system, loosely based off the <a
+href="http://garduino.dirtnail.com/">Garduino</a>.  You can find
 those tools on <a href="http://github.com/sarahsharp/GardenGeek">github</a>.
 
 This January, I presented my tools at Linux Conference Australia in a talk
