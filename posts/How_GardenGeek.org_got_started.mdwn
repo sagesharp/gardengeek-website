@@ -1,4 +1,5 @@
-<u>In a garden, far, far away</u>
+A long time ago, in a garden far far away
+=========================================
 
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and something of a planner by nature.  I
@@ -24,7 +25,8 @@ LCA, and hear about any projects they were working on.  I realized there was no
 online representation for this community, where people combine their software
 and hardware expertise with their passion for gardening.  So I created it.
 
-<u>Welcome to GardenGeek.org!</u>
+Welcome to GardenGeek.org!
+==========================
 
 I hope you can contribute to this community, or use this site to find a cool
 garden project to work on.
