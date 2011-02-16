@@ -17,9 +17,9 @@ those tools on <a href="http://github.com/sarahsharp/GardenGeek">github</a>.
 This January, I presented my tools at Linux Conference Australia in a talk
 called "Growing food with Open Source".  I was amazed by the interest from the
 conference attendees, and by how many people told me about geeky garden projects
-I had never heard of.  There was one person who told me they had already done
-the automatic watering project I presented in the talk, but they were too
-worried about being in front of an audience to ever present it!
+I had never heard of.  There was one person who told me they had already
+developed a project similar to the Garduino, but they were too worried about
+being in front of an audience to ever present it!
 
 Of course, I wanted to keep in contact with all the awesome garden hackers at
 LCA, and hear about any projects they were working on.  I realized there was no
