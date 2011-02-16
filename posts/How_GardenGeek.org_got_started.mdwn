@@ -27,8 +27,9 @@ this site to find a cool garden project to work on.
 
 There's several ways you can contribute to GardenGeek.org:
 
-* Want to get some help on a project or just say hi?<br>Join the GardenGeek Google
-group.
+* Want to get some help on a project or just say hi?<br><a
+href="http://groups.google.com/group/gardengeekery">Join the GardenGeek Google
+group</a>.
 
 * Know of a really cool project?<br>Add a link to the project page.
 
