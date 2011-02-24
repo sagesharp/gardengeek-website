@@ -18,11 +18,12 @@ href="http://garduino.dirtnail.com/">Garduino</a>.  You can find
 those tools on <a href="http://github.com/sarahsharp/GardenGeek">github</a>.
 
 This January, I presented my tools at Linux Conference Australia in a talk
-called "Growing food with Open Source".  I was amazed by the interest from the
-conference attendees, and by how many people told me about geeky garden projects
-I had never heard of.  There was one person who told me they had already
-developed a project similar to the Garduino, but they were too worried about
-being in front of an audience to ever present it!
+called "Growing food with Open Source".  (You can watch the video <a
+href="http://linuxconfau.blip.tv/file/4728591/">here.</a>)  I was amazed by the
+interest from the conference attendees, and by how many people told me about
+geeky garden projects I had never heard of.  There was one person who told me
+they had already developed a project similar to the Garduino, but they were too
+worried about being in front of an audience to ever present it!
 
 Of course, I wanted to keep in contact with all the awesome garden hackers at
 LCA, and hear about any projects they were working on.  I realized there was no
