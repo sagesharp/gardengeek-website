@@ -1,6 +1,9 @@
 A long time ago, in a garden far far away
 =========================================
 
+<img
+src="http://lh3.ggpht.com/_KnE2M8e3X8Q/SbROHDR6NhI/AAAAAAAAB08/tU__OgKzocA/s144/me-beach-polariod.png"
+align="left">
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and a planner by nature.  I wanted tools to
 help me create a garden calendar and plot out my garden, and some electronics to
