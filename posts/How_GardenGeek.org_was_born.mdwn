@@ -7,7 +7,7 @@ align="left">
 Last January, I started searching for tools to help me grow my garden.  I'm a
 lazy software hacker by profession, and a planner by nature.  I wanted tools to
 help me create a garden calendar and plot out my garden, and some electronics to
-automatically water my garden in the summer.
+automatically water my plants in the summer.
 
 I never found any really good freely available tools, and certainly no open
 source tools, so I gave up and started writing my own.  I ended up creating
@@ -18,12 +18,12 @@ href="http://garduino.dirtnail.com/">Garduino</a>.  You can find
 those tools on <a href="http://github.com/sarahsharp/GardenGeek">github</a>.
 
 This January, I presented my tools at Linux Conference Australia in a talk
-called "Growing food with Open Source".  (You can watch the video <a
-href="http://linuxconfau.blip.tv/file/4728591/">here.</a>)  I was amazed by the
-interest from the conference attendees, and by how many people told me about
-geeky garden projects I had never heard of.  There was one person who told me
-they had already developed a project similar to the Garduino, but they were too
-worried about being in front of an audience to ever present it!
+called <a href="http://linuxconfau.blip.tv/file/4728591/">"Growing food with
+Open Source"</a>.  I was amazed by the interest from the conference attendees,
+and by how many people told me about geeky garden projects I had never heard of.
+There was one person who told me they had already developed a project similar to
+the Garduino, but they were too worried about being in front of an audience to
+ever present it!
 
 Of course, I wanted to keep in contact with all the awesome garden hackers at
 LCA, and hear about any projects they were working on.  I realized there was no
