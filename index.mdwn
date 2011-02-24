@@ -7,7 +7,7 @@
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10"
 actions=yes]]
 
-[[!inline pagenames="" rootpage="posts"]]
+[[!inline pagenames="" rootpage="posts" feeds="no"]]
 
 
 This blog is powered by [ikiwiki](http://ikiwiki.info).
