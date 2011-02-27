@@ -51,8 +51,9 @@ research page.
 been conducting?<br>Contribute a blog post.
 
 * Just want to see what we're up to?<br>
-<a href="http://twitter.com/gardengeekery">Follow GardenGeekery on twitter</a> or
-<a href="http://www.facebook.com/pages/GardenGeekery/">Become a fan on Facebook</a>
+Follow GardenGeekery on <a href="http://twitter.com/gardengeekery">twitter</a>
+or <a href="http://identi.ca/gardengeekery">Identica</a>, or
+<a href="http://www.facebook.com/pages/GardenGeekery/">become a fan on Facebook</a>
 
 You can sign up to edit the pages here.  If you want to contribute a blog post,
 mention the subject and your username on the google group, and I'll give your
