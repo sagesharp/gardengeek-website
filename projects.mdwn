@@ -16,18 +16,11 @@ code, and open hardware diagrams.  The goal is to provide projects that a person
 can build themselves, modify the design, and share their new design with the
 community.
 
-[[!table  data="""
-<img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png">
-| [[Automatic irrigation|irrigation]]
-<img
-src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png">
-| [[Weather monitoring|weather]]
-<img
-src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png">
-| [[Rain harvesting|rain]]
-<img
-src="http://sarah.thesharps.us/public/gardengeek-images/calendar.png">
-| [[Garden planning|garden-planning]]
+[[!table  delimiter="," data="""
+<img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png">, [[Automatic irrigation|irrigation]]
+<img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png">, [[Weather monitoring|weather]]
+<img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png">, [[Rain harvesting|rain]]
+<img src="http://sarah.thesharps.us/public/gardengeek-images/calendar.png">, [[Garden planning|garden-planning]]
 """]]
 
 Cold frame/green house control
