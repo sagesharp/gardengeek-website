@@ -190,6 +190,11 @@ div.recentchanges {
 
 .inlinepage {
 	padding: 10px 10px;
+	overflow: auto;
+}
+
+#content {
+	padding: 10px 10px;
 	border: 1px solid #aaa;
 	overflow: auto;
 }
