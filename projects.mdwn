@@ -17,10 +17,8 @@ can build themselves, modify the design, and share their new design with the
 community.
 
 [[!table  delimiter="," data="""
-<center><img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png"></center>, [[Automatic irrigation|irrigation]]
-<center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather]]
-<center><img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png"></center>, [[Rain harvesting|rain]]
-<center><img src="http://sarah.thesharps.us/public/gardengeek-images/calendar.png"></center>, [[Garden planning|garden-planning]]
+<center><img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png"></center>, [[Automatic irrigation|irrigation]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png"></center>, [[Rain harvesting|rain]]
+<center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/calendar.png"></center>, [[Garden planning|garden-planning]]
 """]]
 
 Cold frame/green house control
