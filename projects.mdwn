@@ -16,7 +16,7 @@ code, and open hardware diagrams.  The goal is to provide projects that a person
 can build themselves, modify the design, and share their new design with the
 community.
 
-[[!table  delimiter="," data="""
+[[!table  delimiter="," header="no" data="""
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png"></center>, [[Automatic irrigation|irrigation]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png"></center>, [[Rain harvesting|rain]]
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather-monitoring]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/cloud-seeding.png"></center>, [[Weather control|weather-control]], 
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/solar-panel.png"></center>, [[Solar projects|solar]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/grass.png"></center>, [[Lawn Care|lawns]]
