@@ -42,7 +42,7 @@ There's several ways you can contribute to GardenGeek.org:
 <br><a href="http://groups.google.com/group/gardengeekery">Join the
 GardenGeekery Google group</a>.
 
-* Know of a really cool project?<br>Add a link to the project page.
+* Know of a really cool project?<br>Add a link to the [[Projects]] page.
 
 * Read an interesting article on garden science?<br>Add a note to the
 research page.
