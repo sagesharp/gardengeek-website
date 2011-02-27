@@ -1,0 +1,31 @@
+[[!meta title="GardenGeek.org Community"]]
+
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+If you haven't noticed, GardenGeek.org is actually a wiki.  This means anyone
+who registers can edit the pages, add content and links, correct mistakes, and
+share their knowledge.  The goal is for GardenGeek.org to become the source of
+knowledge about everything electronics and software that relates to gardening.
+
+We know that a lot of wikis stagnate, get out of date, and get abandoned.
+Conversations and information sharing tends to happen via email and on social
+media websites instead.  That's why we've extended the GardenGeek.org
+conversation to
+<a href="http://twitter.com/gardengeekery">Twitter</a>,
+<a href="http://identi.ca/gardengeekery">Identica</a>,
+<a href="http://www.facebook.com/pages/GardenGeekery/">Facebook</a>,
+and
+<a href="http://groups.google.com/group/GardenGeekery">Google groups</a>
+
+Want to send us a quick link before you forget about it?  Send it via social
+media.  We'll update the wiki with content provided from social media websites
+as time permits.
+
+Want more in depth help with a cool project, want to throw around some ideas, or
+have a longer discussion with fellow garden geeks?  We suggest you join the <a
+href="">http://groups.google.com/group/garden-geekery>Garden Geekery Google
+Group</a> (try saying that five times fast) and send us an email.
