@@ -18,13 +18,16 @@ community.
 
 [[!table  delimiter="," data="""
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png"></center>, [[Automatic irrigation|irrigation]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png"></center>, [[Rain harvesting|rain]]
-<center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/solar-panel.png"></center>, [[Solar projects|solar]]
+<center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather-monitoring]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/solar-panel.png"></center>, [[Solar projects|solar]]
+<center><img src="http://sarah.thesharps.us/public/gardengeek-images/cloud-seeding.png"></center>, [[Weather control|weather-control]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/grass.png"></center>, [[Lawn Care|lawns]]
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/squirrel.png"></center>, [[Pest/animal control|pests]]
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/calendar.png"></center>, [[Garden planning|garden-planning]]
 """]]
 
 Cold frame/green house control
 ==============================
+
+Cloud Seeding - haven't heard of anyone publishing their cloud seeding project, but wouldn't that be cool?
 
 Social networking
 =================
