@@ -4,12 +4,33 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(./projects/*) and !*/Discussion" show="10"
-actions=yes]]
+Please only link to projects that provide open documentation, open source code,
+and open hardware diagrams.  The goal is to provide projects that a person can
+build themselves, modify the design, and share their new design with the
+community.
 
-[[Archives]]
+Automatic irrigation
+====================
 
-[[!inline pagenames="" rootpage="posts" feeds="no"]]
+Weather monitoring
+==================
 
+Cold frame/green house control
+==============================
 
-This blog is powered by [ikiwiki](http://ikiwiki.info).
+Solar projects
+==============
+
+Rain harvesting
+===============
+
+Pest/animal control
+===================
+
+Garden planning
+===============
+
+Social networking
+=================
+
+Make this an icon page, with sublinks to project pages?
