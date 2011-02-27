@@ -101,6 +101,9 @@
 <TMPL_ELSE>
 <div class="addcomment">Comments on this page are closed.</div>
 </TMPL_IF>
+<TMPL_IF RECENTCHANGESURL>
+<li><a href="<TMPL_VAR RECENTCHANGESURL>">RecentChanges</a></li>
+</TMPL_IF>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
 </TMPL_UNLESS>
