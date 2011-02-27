@@ -1,3 +1,5 @@
+[[!meta title="GardenGeek.org Projects"]]
+
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
 """ else="""
