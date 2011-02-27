@@ -6,9 +6,14 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-Please only link to projects that provide open documentation, open source code,
-and open hardware diagrams.  The goal is to provide projects that a person can
-build themselves, modify the design, and share their new design with the
+Garden Geekery Project Possiblities
+===================================
+
+Are you looking for cool garden projects to hack on?  Look no further!
+
+Please try to link to projects that provide open documentation, open source
+code, and open hardware diagrams.  The goal is to provide projects that a person
+can build themselves, modify the design, and share their new design with the
 community.
 
 Automatic irrigation
