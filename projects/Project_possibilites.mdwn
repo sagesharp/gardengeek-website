@@ -1,0 +1,30 @@
+Please only link to projects that provide open documentation, open source code,
+and open hardware diagrams.  The goal is to provide projects that a person can
+build themselves, modify the design, and share their new design with the
+community.
+
+Automatic irrigation
+====================
+
+Weather monitoring
+==================
+
+Cold frame/green house control
+==============================
+
+Solar projects
+==============
+
+Rain harvesting
+===============
+
+Pest/animal control
+===================
+
+Garden planning
+===============
+
+Social networking
+=================
+
+Make this an icon page, with sublinks to project pages?

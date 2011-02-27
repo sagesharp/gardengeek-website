@@ -1,0 +1,15 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+[[!inline pages="page(./projects/*) and !*/Discussion" show="10"
+actions=yes]]
+
+[[Archives]]
+
+[[!inline pagenames="" rootpage="posts" feeds="no"]]
+
+
+This blog is powered by [ikiwiki](http://ikiwiki.info).
