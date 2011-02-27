@@ -27,5 +27,4 @@ as time permits.
 
 Want more in depth help with a cool project, want to throw around some ideas, or
 have a longer discussion with fellow garden geeks?  We suggest you join the <a
-href="">http://groups.google.com/group/garden-geekery>Garden Geekery Google
-Group</a> (try saying that five times fast) and send us an email.
+href="http://groups.google.com/group/garden-geekery">Garden Geekery</a> Google Group (try saying that five times fast) and send us an email.
