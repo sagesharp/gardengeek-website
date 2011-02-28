@@ -1,2 +1,10 @@
+[[!meta title="GardenGeek.org Irrigation Projects"]]
+
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
 Garduio links - many of them.
 
