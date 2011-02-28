@@ -31,10 +31,11 @@ GardenGeekery Google group</a>.
 * Read an interesting article on garden science?<br>Add a note to the
 research page.
 
-* Want to talk about your awesome project or some garden experiments you've
-been conducting?<br>Contribute a blog post.
-
 * Just want to see what we're up to?<br>
 Follow GardenGeekery on <a href="http://twitter.com/gardengeekery">twitter</a>
 or <a href="http://identi.ca/gardengeekery">Identica</a>, or
 <a href="http://www.facebook.com/pages/GardenGeekery/">become a fan on Facebook</a>
+
+* Want to talk about your awesome project or some garden experiments you've
+been conducting?<br>Contribute a blog post. (Send a request to the Google group
+for wiki admin access first).
