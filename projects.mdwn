@@ -6,7 +6,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-Garden Geekery Project Possiblities
+Garden Geekery Project Possibilities
 ===================================
 
 Are you looking for cool garden projects to hack on?  Look no further!
