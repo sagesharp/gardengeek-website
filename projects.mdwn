@@ -16,6 +16,9 @@ code, and open hardware diagrams.  The goal is to provide projects that a person
 can build themselves, modify the design, and share their new design with the
 community.
 
+If you see a really cool non-open project, please put it at the bottom of each
+topic page, under the "Closed Projects that Inspire" section.
+
 [[!table  delimiter="," header="no" data="""
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/watering-can.png"></center>, [[Automatic irrigation|irrigation]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/barrel.png"></center>, [[Rain harvesting|rain]]
 <center><img src="http://sarah.thesharps.us/public/gardengeek-images/inclement-weather.png"></center>, [[Weather monitoring|weather-monitoring]], <center><img src="http://sarah.thesharps.us/public/gardengeek-images/cloud-seeding.png"></center>, [[Weather control|weather-control]], 
