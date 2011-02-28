@@ -6,5 +6,11 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-Garduio links - many of them.
+[How to build a simple soil moisture
+sensor](http://www.cheapvegetablegardener.com/2009/11/how-to-make-cheap-soil-moisture-sensor-2.html).
+It doesn't get any simpler than this!  Two nails, some plastic tubing, wire, wax
+paper, and plaster of paris can create a really cheap soil moisture sensor.
+Very easy to make, although you may have issues with soldering the wire contacts
+on the galvanized nails.  You can use hot glue, but you may lose some
+conductivity.
 
