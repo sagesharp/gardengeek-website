@@ -14,3 +14,19 @@ Very easy to make, although you may have issues with soldering the wire contacts
 on the galvanized nails.  You can use hot glue, but you may lose some
 conductivity.
 
+Garduio = Gardening + Arduino.  Use an Arduino to automatically water your
+plants and monitor temperature and sunlight.  The original instructables
+documentation is
+[here](http://www.instructables.com/id/Garduino-Gardening-Arduino/).  You can
+also purchase an Arduino shield kit on
+[dirtnail.com](http://garduino.dirtnail.com/)  The schematics and code are
+available, although the website owner didn't answer my email about what license
+they were available under (assume proprietary?).  The instructables tutorial is
+under the share-alike attribution Creative Commons license, so please use that.
+
+There are many people who seem to have created Garduino-like projects:
+* [Mention in 2008 on the Arduino forums](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1212611752/1)
+* [Garden Bot](http://gardenbot.org/)
+
+If you like the Garduino, try [adding more
+twitter!](http://www.instructables.com/id/Garduino-Upgrade-Now-with-more-Twitter/)
