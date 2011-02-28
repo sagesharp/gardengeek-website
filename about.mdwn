@@ -1,3 +1,11 @@
+[[!meta title="About GardenGeek.org"]]
+
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
 What is GardenGeek.org?
 ======================
 
