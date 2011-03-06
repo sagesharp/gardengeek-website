@@ -47,8 +47,8 @@ are better than others.
 
 <a
 href="https://picasaweb.google.com/lh/photo/qwW53n_XAVUDnpBcoF4RxA?feat=embedwebsite"><img
-src="https://lh6.googleusercontent.com/_KnE2M8e3X8Q/SqKCMahatrI/AAAAAAAAEOw/Wttmf-oxgXQ/s400/IMG_5497.JPG"
-height="400" width="300" /></a>
+src="https://lh6.googleusercontent.com/_KnE2M8e3X8Q/SqKCMahatrI/AAAAAAAAEOw/Wttmf-oxgXQ/s288/IMG_5497.JPG"
+align="center"></a>
 
 The awesome thing is that a home gardener can do a simple test with a glass jar
 to determine what soil type they have.  <a
@@ -57,4 +57,5 @@ This page</a> has a more precise description for the test.  Use <a
 href="http://www.oneplan.state.id.us/Water/soil-triangle.asp">this handy
 chart</a> to determine what type of soil you have:
 
-<img src="http://www.oneplan.state.id.us/Images/soilMst/SoilTriangle.gif">
+<img src="http://www.oneplan.state.id.us/Images/soilMst/SoilTriangle.gif"
+align="center">
