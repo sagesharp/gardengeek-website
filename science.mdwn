@@ -1,0 +1,60 @@
+[[!meta title="Garden Science"]]
+
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+Peas Inoculant Science
+======================
+
+Peas (such as snap peas, snow peas, or shelling peas) are co-dependent on a
+particular type of soil bacteria called <a
+href="http://en.wikipedia.org/wiki/Rhizobia">rhizobia</a>.  This bacteria can
+only live within a plant's roots (the nodules).  The rhizobia fixes nitrogen
+into the soil, and the host in turn grows better and produces more peas with the
+increased nitrogen.  When the peas die off in the winter, they leave behind
+their decaying root structures, with dormant nodules.  Next year's generation of
+peas will be even more productive than the last because of those nodules, <a
+href="http://www4.agr.gc.ca/resources/prod/doc/pfra/csidc/pea-pois_eng.pdf">as
+this paper shows.</a>
+
+What does this mean for a gardener who wants to start peas in a new plot?  If no
+peas have been grown in the area, there will be no rhizobia to help feed the new
+peas nitrogen.  Fortunately, you can mix in some soil from a previous spot where
+peas grew to add some native rhizobia.  If you haven't ever grown peas, there
+are commercial rhizobial "inoculants" that you can apply to the soil to help the
+peas in their first year.
+
+There are several different kinds of commercial inoculants: liquid, granular,
+and powdered peat inoculant.  <a
+href="http://ginkgo.cisti.nrc.ca/RPAS/rpv?hm=HInit&journal=cjss&volume=80&afpf=S99-059.pdf">This
+paper</a> discusses the results of applying those inoculants to soil with
+different pH levels.  You might figure out what soil type you have</a> and use
+that information to pick which type of inoculant you use.
+
+
+Soil Type Test
+==============
+
+Soil is just soil, right?  Wrong.  Soil is actually a mixture of different sized
+particles: clay, sand, and silt.  If you've ever tried to dig a hole and bent
+your shovel, you've probably encountered soil with a high clay composition.  <a
+href="http://razorfamilyfarms.com/gardening/soil-composition/">This post</a> has
+a good basic description of soil composition, and explains why some soil types
+are better than others.
+
+<a
+href="https://picasaweb.google.com/lh/photo/qwW53n_XAVUDnpBcoF4RxA?feat=embedwebsite"><img
+src="https://lh6.googleusercontent.com/_KnE2M8e3X8Q/SqKCMahatrI/AAAAAAAAEOw/Wttmf-oxgXQ/s400/IMG_5497.JPG"
+height="400" width="300" /></a>
+
+The awesome thing is that a home gardener can do a simple test with a glass jar
+to determine what soil type they have.  <a
+href="http://www.rawpeople.com/index.php?option=com_content&view=article&id=958&Itemid=434">
+This page</a> has a more precise description for the test.  Use <a
+href="http://www.oneplan.state.id.us/Water/soil-triangle.asp">this handy
+chart</a> to determine what type of soil you have:
+
+<img src="http://www.oneplan.state.id.us/Images/soilMst/SoilTriangle.gif">

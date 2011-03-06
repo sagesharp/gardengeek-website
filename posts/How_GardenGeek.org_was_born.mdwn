@@ -45,7 +45,7 @@ GardenGeekery Google group</a>.
 * Know of a really cool project?<br>Add a link to the [[Projects]] page.
 
 * Read an interesting article on garden science?<br>Add a note to the
-research page.
+[[science]] page.
 
 * Just want to see what we're up to?<br>
 Follow GardenGeekery on <a href="http://twitter.com/gardengeekery">twitter</a>
