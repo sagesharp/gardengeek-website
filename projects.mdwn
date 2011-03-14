@@ -1,11 +1,5 @@
 [[!meta title="GardenGeek.org Projects"]]
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
-
 Garden Geekery Project Possibilities
 ===================================
 
