@@ -209,8 +209,8 @@ div.recentchanges {
 
 #content {
 	padding: 10px 10px;
-	border: 1px solid #aaa;
 	overflow: auto;
+	border: 7px solid #F3DEA9;
 }
 
 .pagedate,
