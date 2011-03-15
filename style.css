@@ -59,7 +59,8 @@ a.nav:visited {
 	text-decoration: none;
 }
 a.nav:hover {
-	color: rgb(236, 223, 176);
+	color: white;
+	background: rgb(208, 188, 163);
 	text-decoration: none;
 }
 a.nav:hover {
