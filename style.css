@@ -36,7 +36,7 @@ nav {
 	background-color: rgb(153, 133, 109);
 	border-top: 7px solid rgb(12, 191, 12);
 }
-.actions li {
+.actions-top li {
 	display: inline;
 	padding: .2em;
 }
