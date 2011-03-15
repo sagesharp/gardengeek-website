@@ -67,6 +67,7 @@ a.nav:active {
 	color: white;
 	background: #B8A48D;
 	border-bottom: 2px solid #DDD;
+	margin: 50px 0;
 	text-decoration: none;
 }
 
