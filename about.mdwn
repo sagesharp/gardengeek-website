@@ -14,22 +14,4 @@ If you find yourself in that "other" geeky gardener category, this community is
 for you.  This is the place to find your next cool project, collaborate with
 other garden geeks, or discuss the latest garden science breakthrough.
 
-There's several ways you can contribute to GardenGeek.org:
-
-* Want to get some help on a project?
-<br><a href="http://groups.google.com/group/gardengeekery">Join the
-GardenGeekery Google group</a>.
-
-* Know of a really cool project?<br>Add a link to the [[Projects]] page.
-
-* Read an interesting article on garden science?<br>Add a note to the
-research page.
-
-* Just want to see what we're up to?<br>
-Follow GardenGeekery on <a href="http://twitter.com/gardengeekery">twitter</a>
-or <a href="http://identi.ca/gardengeekery">Identica</a>, or
-<a href="http://www.facebook.com/pages/GardenGeekery/">become a fan on Facebook</a>
-
-* Want to talk about your awesome project or some garden experiments you've
-been conducting?<br>Contribute a blog post. (Send a request to the Google group
-for wiki admin access first).
+[[!inline pages=contribute raw=yes]]
