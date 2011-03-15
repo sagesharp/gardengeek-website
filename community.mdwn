@@ -1,11 +1,5 @@
 [[!meta title="GardenGeek.org Community"]]
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
-
 If you haven't noticed, GardenGeek.org is actually a wiki.  This means anyone
 who registers can edit the pages, add content and links, correct mistakes, and
 share their knowledge.  The goal is for GardenGeek.org to become the source of

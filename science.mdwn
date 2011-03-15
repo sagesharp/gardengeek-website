@@ -1,11 +1,5 @@
 [[!meta title="Garden Science"]]
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
-
 Peas Inoculant Science
 ======================
 

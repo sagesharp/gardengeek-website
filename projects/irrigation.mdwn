@@ -1,11 +1,5 @@
 [[!meta title="GardenGeek.org Irrigation Projects"]]
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
-
 [How to build a simple soil moisture
 sensor](http://www.cheapvegetablegardener.com/2009/11/how-to-make-cheap-soil-moisture-sensor-2.html).
 It doesn't get any simpler than this!  Two nails, some plastic tubing, wire, wax
