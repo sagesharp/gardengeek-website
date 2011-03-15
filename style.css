@@ -61,12 +61,9 @@ nav {
 	border-bottom: 1px solid #000;
 }
 
-.pagebody {
-	border: 7px solid #F3DEA9;
-}
-
 .inlinecontent {
 	margin-top: .4em;
+	border: 7px solid #F3DEA9;
 }
 
 .pagefooter,
