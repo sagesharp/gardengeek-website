@@ -50,6 +50,10 @@ nav {
 	display: inline;
 	padding: .2em;
 }
+a.nav:link {
+	color: white;
+	text-decoration: none;
+}
 
 .actions ul {
 	margin: 0;
