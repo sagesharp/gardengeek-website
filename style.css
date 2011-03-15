@@ -62,6 +62,7 @@ a.nav:visited {
 a.nav:hover {
 	color: white;
 	background-image: url('https://lh3.googleusercontent.com/_KnE2M8e3X8Q/TX8EnPQLD7I/AAAAAAAAHp4/hzfbpQh_gxI/s800/nav-bar-background.png');
+	line-height: 44px;
 	text-decoration: none;
 }
 a.nav:active {
