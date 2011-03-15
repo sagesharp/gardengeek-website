@@ -54,6 +54,18 @@ a.nav:link {
 	color: white;
 	text-decoration: none;
 }
+a.nav:visited {
+	color: white;
+	text-decoration: none;
+}
+a.nav:hover {
+	color: white;
+	text-decoration: none;
+}
+a.nav:hover {
+	color: white;
+	text-decoration: none;
+}
 
 .actions ul {
 	margin: 0;
