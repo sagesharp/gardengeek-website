@@ -1,0 +1,22 @@
+There's several ways you can contribute to GardenGeek.org:
+
+* Want to get some help on a project?
+<br><a href="http://groups.google.com/group/gardengeekery">Join the
+GardenGeekery Google group</a>.
+
+* Know of a really cool project?<br>Add a link to the [[Projects]] page.
+
+* Read an interesting article on garden science?<br>Add a note to the
+[[science]] page.
+
+* Just want to see what we're up to?<br>
+Follow GardenGeekery on <a href="http://twitter.com/gardengeekery">twitter</a>
+or <a href="http://identi.ca/gardengeekery">Identica</a>, or
+<a href="http://www.facebook.com/pages/GardenGeekery/">become a fan on Facebook</a>
+
+* Want to talk about your awesome project or some garden experiments you've
+been conducting?<br>Contribute a blog post.
+
+You can sign up to edit the pages here.  If you want to contribute a blog post,
+mention the subject and your username on the google group, and I'll give your
+username the permissions to make a blog post.
