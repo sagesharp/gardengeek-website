@@ -12,13 +12,20 @@ nav {
 	display: block;
 }
 
-.header {
+.header-top {
 	margin: 0;
 	font-size: 140%;
 	font-weight: bold;
 	line-height: 1em;
 	display: block;
 	background-color: #95C6FB;
+}
+.header {
+	margin: 0;
+	font-size: 140%;
+	font-weight: bold;
+	line-height: 1em;
+	display: block;
 }
 
 .inlineheader .author {
