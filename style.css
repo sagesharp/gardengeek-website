@@ -60,12 +60,11 @@ a.nav:visited {
 }
 a.nav:hover {
 	color: white;
-	background: #B8A48D;
+	background: #DFA153;
 	text-decoration: none;
 }
 a.nav:active {
 	color: white;
-	background: #B8A48D;
 	text-decoration: none;
 }
 
