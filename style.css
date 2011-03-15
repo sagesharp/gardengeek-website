@@ -39,12 +39,12 @@ nav {
 .actions-top ul {
 	margin: 0;
 	padding: 6px .4em;
-	height: 1em;
+	height: 44px;
 	color: white !important;
 	font-weight: bold;
 	list-style-type: none;
-	background-color: rgb(153, 133, 109);
 	border-top: 7px solid rgb(12, 191, 12);
+	background-image: url('https://lh3.googleusercontent.com/_KnE2M8e3X8Q/TX8EnPQLD7I/AAAAAAAAHp4/hzfbpQh_gxI/s800/nav-bar-background.png');
 }
 .actions-top li {
 	display: inline;
