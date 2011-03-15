@@ -63,8 +63,10 @@ a.nav:hover {
 	background: #B8A48D;
 	text-decoration: none;
 }
-a.nav:hover {
+a.nav:active {
 	color: white;
+	background: #B8A48D;
+	border-bottom: 2px solid #DDD;
 	text-decoration: none;
 }
 
