@@ -18,6 +18,7 @@ nav {
 	font-weight: bold;
 	line-height: 1em;
 	display: block;
+	background-color: #95C6FB;
 }
 
 .inlineheader .author {
@@ -32,6 +33,8 @@ nav {
 	padding: 6px .4em;
 	height: 1em;
 	list-style-type: none;
+	background-color: rgb(153, 133, 109);
+	border-top: 7px solid rgb(12, 191, 12);
 }
 .actions li {
 	display: inline;
@@ -56,6 +59,10 @@ nav {
 }
 .pageheader #otherlanguages {
 	border-bottom: 1px solid #000;
+}
+
+.pagebody {
+	border: 7px solid #F3DEA9;
 }
 
 .inlinecontent {
