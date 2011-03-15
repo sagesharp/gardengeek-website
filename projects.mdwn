@@ -1,4 +1,4 @@
-[[!meta title="GardenGeek.org Projects"]]
+[[!meta title="Projects"]]
 
 Garden Geekery Project Possibilities
 ===================================

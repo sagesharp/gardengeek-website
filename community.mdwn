@@ -1,4 +1,4 @@
-[[!meta title="GardenGeek.org Community"]]
+[[!meta title="Community"]]
 
 If you haven't noticed, GardenGeek.org is actually a wiki.  This means anyone
 who registers can edit the pages, add content and links, correct mistakes, and

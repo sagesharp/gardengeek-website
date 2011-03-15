@@ -1,4 +1,4 @@
-[[!meta title="GardenGeek.org Irrigation Projects"]]
+[[!meta title="Irrigation Projects"]]
 
 [How to build a simple soil moisture
 sensor](http://www.cheapvegetablegardener.com/2009/11/how-to-make-cheap-soil-moisture-sensor-2.html).
